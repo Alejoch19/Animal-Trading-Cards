@@ -1,0 +1,31 @@
+html {
+  font-family: arial, helvetica, sans-serif;
+}
+#card {
+  width: 300px;
+  padding: 15px;
+  border: 1px solid silver;
+  box-shadow: 7px 7px #D3D3D3;
+}
+.Name {
+  font-weight: bold;
+}
+.picture {
+  width: 300px;
+  height: 200px;
+}
+.cardInfo {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid silver;
+}
+.fact {
+  font-style: italic;
+}
+.list {
+  list-style: none;
+  padding: 0px;
+}
+.Label {
+  font-weight: bold;
+}
